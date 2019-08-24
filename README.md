@@ -1,7 +1,7 @@
 # Wireframe20
 Projects and assets from Wireframe #20
 
-Live coding and ray marching, pages 36-39, by Char Styles
+Live coding and ray marching, pages 36-39, by Char Stiles
 
 Source Code: Create your own 2D shooting gallery, pages 40-41, by Rik Cross
 
